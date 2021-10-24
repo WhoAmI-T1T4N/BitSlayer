@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 ##################################################
 # Script Bot Peghasil BTC / BITCOIN              #
-# Code open source in https://github.com/Musk-ID #
-# Author : Kingtebe                              #
-# Github : https://github.com/Musk-ID            #
+# Code open source in https://github.com/WhoAmI-T1T4N #
+# Author : Mr.T1T4N                            #
+# Github : https://github.com/WhoAmI-T1T4N            #
 ##################################################
 import os ,sys ,re ,json ,random ,logging ,subprocess
 try:
@@ -63,7 +63,7 @@ def _OOOOO0O000OOOO0O0 ():
 		clear ()
 		O000000O00O00OOO0 =datetime .now ().strftime ("%H.%M.%S")
 		OOOOOO0O00OOOO00O =datetime .now ().strftime ("%d/%m/%Y")
-		message (f"\n  {p}Time : {O000000O00O00OOO0}           Date : {OOOOOO0O00OOOO00O}\n {m}╔{c}═════════════════════════════════════════════{m}╗\n {c}║ {m}██████{c}╗  {m}██████{c}╗  {m}██████{c}╗ {m}████████{c}╗{m}███████{c}╗ {c}║\n {c}║ {m}██{c}╔══{m}██{c}╗{m}██{c}╔═══{m}██{c}╗{m}██{c}╔═══{m}██{c}╗{c}╚══{m}██{c}╔══╝{m}██{c}╔════╝ {c}║\n {c}║ {m}██████{c}╔╝{m}██{c}║   {m}██{c}║{m}██{c}║   {m}██{c}║   {m}██{c}║   {m}███████{c}╗ {c}║\n {c}║ {m}██{c}╔══{m}██{c}╗{m}██{c}║   {m}██{c}║{m}██{c}║   {m}██{c}║   {m}██{c}║   {c}╚════{m}██{c}║ {c}║\n {c}║ {m}██████{c}╔╝{c}╚{m}██████{c}╔╝{c}╚{m}██████{c}╔╝   {m}██{c}║   {m}███████{c}║ {c}║\n {c}║ ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝ {c}║\n {c}║{k}---------------------------------------------{c}║\n {c}║ {k}▶ {p}Author {k}: {p}Kingtebe                         {c}║\n {c}║ {k}▶ {p}Github {k}: {p}github.com/Musk-ID      {m}[{p}ONLINE{m}] {c}║\n {m}╚{c}═════════════════════════════════════════════{m}╝\n {q}<═════════════[{k}{z} • FREE SCRIPT • {o}{q}]═════════════>\n  {c}▶ {p}Version {k}: {p}1.1\n  {c}▶ {p}IP Kamu {k}: {h}114.285.98.91\n  {c}▶ {p}Youtube {k}: {p}FaaL TV\n {q}<═════════════════════════════════════════════>")
+		message (f"\n  {p}Time : {O000000O00O00OOO0}           Date : {OOOOOO0O00OOOO00O}\n {m}╔{c}═════════════════════════════════════════════{m}╗\n {c}║ {m}██████{c}╗  {m}██████{c}╗  {m}██████{c}╗ {m}████████{c}╗{m}███████{c}╗ {c}║\n {c}║ {m}██{c}╔══{m}██{c}╗{m}██{c}╔═══{m}██{c}╗{m}██{c}╔═══{m}██{c}╗{c}╚══{m}██{c}╔══╝{m}██{c}╔════╝ {c}║\n {c}║ {m}██████{c}╔╝{m}██{c}║   {m}██{c}║{m}██{c}║   {m}██{c}║   {m}██{c}║   {m}███████{c}╗ {c}║\n {c}║ {m}██{c}╔══{m}██{c}╗{m}██{c}║   {m}██{c}║{m}██{c}║   {m}██{c}║   {m}██{c}║   {c}╚════{m}██{c}║ {c}║\n {c}║ {m}██████{c}╔╝{c}╚{m}██████{c}╔╝{c}╚{m}██████{c}╔╝   {m}██{c}║   {m}███████{c}║ {c}║\n {c}║ ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝ {c}║\n {c}║{k}---------------------------------------------{c}║\n {c}║ {k}▶ {p}Author {k}: {p}Mr.T1T4N                     {c}║\n {c}║ {k}▶ {p}Github {k}: {p}github.com/WhoAmI-T1T4N      {m}[{p}ONLINE{m}] {c}║\n {m}╚{c}═════════════════════════════════════════════{m}╝\n {q}<═════════════[{k}{z} • FREE SCRIPT • {o}{q}]═════════════>\n  {c}▶ {p}Version {k}: {p}1.1\n  {c}▶ {p}IP Kamu {k}: {h}114.285.98.91\n  {c}▶ {p}Youtube {k}: {p}T1T4N TZY\n {q}<═════════════════════════════════════════════>")
 		logging .info (f"       {q}-{q}-{q}={q}[{p}{z} Login to web Xauusd.biz {o}{q}]{q}={q}-{q}-\n")
 		O00O0O0O000OOO000 =input (f"  {m}▶ {p}Username/Email {m}: {k}")
 		OOOOOOOOO00O000OO =input (f"  {m}▶ {p}Password {m}: {k}")
@@ -74,7 +74,7 @@ def _OOOOO0O000OOOO0O0 ():
 	OOOOOOOOO00O000OO =OO000OO0O0O0000O0 ["password"]
 	try :
 		_O00O000OOOO0OO000 (O0OOOO00OO000O0OO ,OOOOOOOOO00O000OO );clear ()
-		message (f"\n  {p}Time : {time}             Date : {date}\n {m}╔{c}═════════════════════════════════════════════{m}╗\n {c}║ {m}██████{c}╗  {m}██████{c}╗  {m}██████{c}╗ {m}████████{c}╗{m}███████{c}╗ {c}║\n {c}║ {m}██{c}╔══{m}██{c}╗{m}██{c}╔═══{m}██{c}╗{m}██{c}╔═══{m}██{c}╗{c}╚══{m}██{c}╔══╝{m}██{c}╔════╝ {c}║\n {c}║ {m}██████{c}╔╝{m}██{c}║   {m}██{c}║{m}██{c}║   {m}██{c}║   {m}██{c}║   {m}███████{c}╗ {c}║\n {c}║ {m}██{c}╔══{m}██{c}╗{m}██{c}║   {m}██{c}║{m}██{c}║   {m}██{c}║   {m}██{c}║   {c}╚════{m}██{c}║ {c}║\n {c}║ {m}██████{c}╔╝{c}╚{m}██████{c}╔╝{c}╚{m}██████{c}╔╝   {m}██{c}║   {m}███████{c}║ {c}║\n {c}║ ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝ {c}║\n {c}║{k}---------------------------------------------{c}║\n {c}║ {k}▶ {p}Author {k}: {p}Kingtebe                         {c}║\n {c}║ {k}▶ {p}Github {k}: {p}github.com/Musk-ID      {m}[{p}ONLINE{m}] {c}║\n {m}╚{c}═════════════════════════════════════════════{m}╝\n {q}<═════════════[{k}{z} • FREE SCRIPT • {o}{q}]═════════════>\n  {c}▶ {p}Version {k}: {p}1.1\n  {c}▶ {p}IP Kamu {k}: {h}{find_ip['ip']}\n  {c}▶ {p}Youtube {k}: {p}FaaL TV\n {q}<═════════════════════════════════════════════>")
+		message (f"\n  {p}Time : {time}             Date : {date}\n {m}╔{c}═════════════════════════════════════════════{m}╗\n {c}║ {m}██████{c}╗  {m}██████{c}╗  {m}██████{c}╗ {m}████████{c}╗{m}███████{c}╗ {c}║\n {c}║ {m}██{c}╔══{m}██{c}╗{m}██{c}╔═══{m}██{c}╗{m}██{c}╔═══{m}██{c}╗{c}╚══{m}██{c}╔══╝{m}██{c}╔════╝ {c}║\n {c}║ {m}██████{c}╔╝{m}██{c}║   {m}██{c}║{m}██{c}║   {m}██{c}║   {m}██{c}║   {m}███████{c}╗ {c}║\n {c}║ {m}██{c}╔══{m}██{c}╗{m}██{c}║   {m}██{c}║{m}██{c}║   {m}██{c}║   {m}██{c}║   {c}╚════{m}██{c}║ {c}║\n {c}║ {m}██████{c}╔╝{c}╚{m}██████{c}╔╝{c}╚{m}██████{c}╔╝   {m}██{c}║   {m}███████{c}║ {c}║\n {c}║ ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝ {c}║\n {c}║{k}---------------------------------------------{c}║\n {c}║ {k}▶ {p}Author {k}: {p}Mr.T1T4N                     {c}║\n {c}║ {k}▶ {p}Github {k}: {p}github.com/WhoAmI-T1T4N    {m}[{p}ONLINE{m}] {c}║\n {m}╚{c}═════════════════════════════════════════════{m}╝\n {q}<═════════════[{k}{z} • FREE SCRIPT • {o}{q}]═════════════>\n  {c}▶ {p}Version {k}: {p}1.1\n  {c}▶ {p}IP Kamu {k}: {h}{find_ip['ip']}\n  {c}▶ {p}Youtube {k}: {p}T1T4N TZY\n {q}<═════════════════════════════════════════════>")
 		O0O0000O000O0000O =put (req .get ("https://xauusd.biz/gold/dashboard").text ,"html.parser")
 		OO0OOOOO0O0OO0OOO =O0O0000O000O0000O .findAll ("p")
 		logging .info (f"    {p}Login as{c}{OO0OOOOO0O0OO0OOO[8].text} {p}balance {h}{OO0OOOOO0O0OO0OOO[7].text} ");logging .info (f" {q}<═════════════════════════════════════════════>")
